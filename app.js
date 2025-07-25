@@ -44,7 +44,7 @@ const updateExchangeRate = async () => {
     msg.innerText = `${amtValue} ${fromCurr.value} = ${finalAmount.toFixed(2)} ${toCurr.value}`;
     console.log(data);
  
-  };
+    };
 
 const updateflag=(element)=>{
 let currcode= element.value;
