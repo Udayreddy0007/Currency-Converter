@@ -63,3 +63,4 @@ window.addEventListener("load",()=>{
 updateExchangeRate();
 });
 //enteire code is here
+
